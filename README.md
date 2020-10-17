@@ -30,6 +30,7 @@ Github: <a href="https://github.com/A1S0N">@A1S0N</a>
 
 * **MacOS High Sierra**
 
+* **Windows 10.0**
 
 ### CLONE
 ```
